@@ -1,0 +1,12 @@
+canvas {
+    border: 5px solid black;
+}
+
+body {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+img {
+    display: none;
+}
